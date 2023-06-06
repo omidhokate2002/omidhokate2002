@@ -25,7 +25,7 @@
 
 <code><img height="40" width="40" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-1024.png"></code>
 <code><img height="40" width="40" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-1024.png"></code>
-<code><img height="40" width="40" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-1024.png"></code>
+<code><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-1024.png"></code>
 <code><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png"></code>
 
 
