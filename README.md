@@ -27,8 +27,8 @@
 <code><img height="40" width="40" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-1024.png"></code>
 <code><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-1024.png"></code>
 <code><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/240px-Node.js_logo.svg.png"></code>
-<code><img height="40" width="40" src="https://webimages.mongodb.com/_com_assets/cms/kuyj3d95v5vbmm2f4-horizontal_white.svg?auto=format%252Ccompress"></code>
+<code><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-51"></code>
+<code><img height="40" width="40" src="https://www.iconfinder.com/icons/9073363/mongodb_icon"></code>
 
 #
 
