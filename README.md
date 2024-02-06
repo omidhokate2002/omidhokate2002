@@ -50,10 +50,10 @@
 #### Top Repositories
 
 <a href="https://github.com/omidhokate2002/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=flixxit" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=flixxit&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/omidhokate2002.github.io">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=issue-tracker" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=issue-tracker&theme=buefy" />
 </a>
 
 <br />
