@@ -44,15 +44,15 @@
 **Github Stats & Languages:** 
 <br/>
 
-| <a href="https://github.com/omidhokate2002/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=omidhokate2002&show_icons=true&rank_icon=github" alt="Oms's github stats" /></a> | <a href="https://github.com/omidhokate2002/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omidhokate2002&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=omidhokate2002&show_icons=true&rank_icon=github" alt="Oms's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omidhokate2002&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
 
-<a href="https://github.com/omidhokate2002/github-readme-stats">
+<a href="#'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=flixxit&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/omidhokate2002.github.io">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=issue-tracker&theme=buefy" />
 </a>
 
