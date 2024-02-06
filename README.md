@@ -49,7 +49,7 @@
 
 #### Top Repositories
 
-<a href="#">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=flixxit&theme=buefy" />
 </a>
 <a>
