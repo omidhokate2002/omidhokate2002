@@ -44,30 +44,20 @@
 **Github Stats & Languages:** 
 <br/>
 
-<a href="https://github.com/omidhokate2002/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=omidhokate2002&show_icons=true&rank_icon=github" />
-</a>
+| <a href="https://github.com/omidhokate2002/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=omidhokate2002&show_icons=true&rank_icon=github" alt="Oms's github stats" /></a> | <a href="https://github.com/omidhokate2002/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omidhokate2002&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-<a href="https://github.com/omidhokate2002/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omidhokate2002&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-<br/>
-<br/>
-
-
-**Repositories:** 
-<br/>
+#### Top Repositories
 
 <a href="https://github.com/omidhokate2002/github-readme-stats">
-  <img height=155 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=flixxit" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=flixxit" />
+</a>
+<a href="https://github.com/anuraghazra/omidhokate2002.github.io">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=issue-tracker" />
 </a>
 
-<a href="https://github.com/omidhokate2002/convoychat">
-  <img height=155 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=issue-tracker" />
-</a>
-
-<br/>
+<br />
+<br />
 <h4 align="center">
 
 ```diff
