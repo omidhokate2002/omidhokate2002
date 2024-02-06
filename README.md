@@ -16,13 +16,11 @@
 
 <br/>
 <br/>
+<br/>
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 
 <br/>
-<br/>
-
-
 <code><img height="40" width="40" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-1024.png"></code>
 <code><img height="40" width="40" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-1024.png"></code>
 <code><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-1024.png"></code>
@@ -38,11 +36,35 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-
-
 <br/>
 
 #
+
+**Github Stats & Languages:** 
+<br/>
+
+<a href="https://github.com/omidhokate2002/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=omidhokate2002&show_icons=true&rank_icon=github" />
+</a>
+
+<a href="https://github.com/omidhokate2002/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omidhokate2002&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+<br/>
+<br/>
+
+
+**Repositories:** 
+<br/>
+
+<a href="https://github.com/omidhokate2002/github-readme-stats">
+  <img height=155 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=flixxit" />
+</a>
+
+<a href="https://github.com/omidhokate2002/convoychat">
+  <img height=155 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=issue-tracker" />
+</a>
 
 <br/>
 <h4 align="center">
