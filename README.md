@@ -47,10 +47,10 @@
 <h3>📕 Top Repositories</h3>
 
 <a href="https://github.com/omidhokate2002/flixxit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=flixxit&theme=buefy" style="max-width: 50%;" height="200px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=flixxit&theme=buefy" style="max-width: auto" height="192px"/>
 </a>
 <a href="https://github.com/omidhokate2002/issue-tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=issue-tracker&theme=buefy" style="max-width: 50%;" height="200px"//>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=issue-tracker&theme=buefy" style="max-width: auto;" height="192px"//>
 </a>
 
 <br />
