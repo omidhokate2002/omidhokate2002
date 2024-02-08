@@ -1,4 +1,3 @@
-<div style="width: 1000px; margin: 0 auto;">
 <h1 align="center">
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
 </h1>
@@ -16,10 +15,8 @@
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
 
 <br/>
-<br/>
-<br/>
 
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
+<h3>💻 Software and Tools</h3> 
 
 <br/>
 <code><img height="40" width="40" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-1024.png"></code>
@@ -29,7 +26,8 @@
 <code><img height="40" width="40" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-128.png"></code>
 <code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mongodb_logo_icon_170943.png"></code>
 
-#
+<br/>
+<br/>
 
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://cdn0.iconfinder.com/data/icons/social-icons-20/200/github-icon-512.png"></code>
@@ -38,22 +36,21 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 <br/>
-
-#
-
-**Github Stats & Languages:** 
 <br/>
 
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=omidhokate2002&show_icons=true&rank_icon=github" alt="Oms's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omidhokate2002&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<h3>⚡ GitHub Profile Stats</h3>
 
-#### Top Repositories
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=omidhokate2002&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true" height="192px" alt="Oms's github stats" /></a> <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omidhokate2002&layout=compact&theme=buefy" height="192px" /></a>
+<br/>
+<br/>
+
+<h3>📕 Top Repositories</h3>
 
 <a href="https://github.com/omidhokate2002/flixxit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=flixxit&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=flixxit&theme=buefy" height="182px"/>
 </a>
 <a href="https://github.com/omidhokate2002/issue-tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=issue-tracker&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=issue-tracker&theme=buefy" height="182px"/>
 </a>
 
 <br />
@@ -82,4 +79,3 @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
 </h4> 
-</div>
