@@ -47,17 +47,34 @@
 
 <h3>⚡ GitHub Profile Stats</h3>
 
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=omidhokate2002&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true" height="192px" alt="Oms's github stats" /></a> <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omidhokate2002&layout=compact&theme=buefy" height="192px" /></a>
+<a href="https://github.com/omidhokate2002#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omidhokate2002&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=buefy#gh-light-mode-only" height="192px" alt="Oms's github stats" />
+</a>
+<a href="https://github.com/omidhokate2002#gh-dark-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omidhokate2002&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=dark#gh-dark-mode-only" height="192px" alt="Oms's github stats" />
+</a> 
+<a  href="https://github.com/omidhokate2002#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omidhokate2002&layout=compact&theme=buefy#gh-light-mode-only" height="192px" />
+</a>
+<a href="https://github.com/omidhokate2002#gh-dark-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omidhokate2002&layout=compact&theme=dark#gh-dark-mode-only" height="192px" />
+</a>
 <br/>
 <br/>
 
 <h3>📕 Top Repositories</h3>
 
-<a href="https://github.com/omidhokate2002/flixxit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=flixxit&theme=buefy""/>
+<a href="https://github.com/omidhokate2002/flixxit#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=flixxit&theme=buefy#gh-light-mode-only"/>
 </a>
-<a href="https://github.com/omidhokate2002/issue-tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=issue-tracker&theme=buefy"/>
+<a href="https://github.com/omidhokate2002/flixxit#gh-dark-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=flixxit&theme=dark#gh-dark-mode-only"/>
+</a>
+<a href="https://github.com/omidhokate2002/issue-tracker#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=issue-tracker&theme=buefy#gh-light-mode-only"/>
+</a>
+<a href="https://github.com/omidhokate2002/issue-tracker#gh-dark-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=issue-tracker&theme=dark#gh-dark-mode-only"/>
 </a>
 
 <br />
