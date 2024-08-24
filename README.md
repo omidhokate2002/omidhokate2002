@@ -47,34 +47,65 @@
 
 <h3>⚡ GitHub Profile Stats</h3>
 
-<a href="https://github.com/omidhokate2002#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omidhokate2002&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=buefy#gh-light-mode-only" height="192px" alt="Oms's github stats" />
-</a>
-<a href="https://github.com/omidhokate2002#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omidhokate2002&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=dark#gh-dark-mode-only" height="192px" alt="Oms's github stats" />
-</a> 
-<a  href="https://github.com/omidhokate2002#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omidhokate2002&layout=compact&theme=buefy#gh-light-mode-only" height="192px" />
-</a>
-<a href="https://github.com/omidhokate2002#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omidhokate2002&layout=compact&theme=dark#gh-dark-mode-only" height="192px" />
-</a>
-<br/>
-<br/>
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/omidhokate2002#gh-light-mode-only">
+        <img width="495" height="195" src="https://github-readme-stats.vercel.app/api?username=omidhokate2002&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=buefy#gh-light-mode-only" alt="Oms's github stats" />
+      </a>
+      <a href="https://github.com/omidhokate2002#gh-dark-mode-only">
+        <img width="495" height="195" src="https://github-readme-stats.vercel.app/api?username=omidhokate2002&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=dark#gh-dark-mode-only" alt="Oms's github stats" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/omidhokate2002#gh-light-mode-only">
+        <img width="495" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omidhokate2002&layout=compact&theme=buefy#gh-light-mode-only" />
+      </a>
+      <a href="https://github.com/omidhokate2002#gh-dark-mode-only">
+        <img width="495" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omidhokate2002&layout=compact&theme=dark#gh-dark-mode-only" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h3>📕 Top Repositories</h3>
-
-<a href="https://github.com/omidhokate2002/flixxit#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=flixxit&theme=buefy#gh-light-mode-only"/>
-</a>
-<a href="https://github.com/omidhokate2002/flixxit#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=flixxit&theme=dark#gh-dark-mode-only"/>
-</a>
-<a href="https://github.com/omidhokate2002/issue-tracker#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=issue-tracker&theme=buefy#gh-light-mode-only"/>
-</a>
-<a href="https://github.com/omidhokate2002/issue-tracker#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=issue-tracker&theme=dark#gh-dark-mode-only"/>
-</a>
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="50%" style="border: none;">
+      <a href="https://github.com/omidhokate2002/flixxit#gh-light-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=flixxit&theme=buefy#gh-light-mode-only"/>
+      </a>
+      <a href="https://github.com/omidhokate2002/flixxit#gh-dark-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=flixxit&theme=dark#gh-dark-mode-only"/>
+      </a>
+    </td>
+    <td width="50%" style="border: none;">
+      <a href="https://github.com/omidhokate2002/issue-tracker#gh-light-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=issue-tracker&theme=buefy#gh-light-mode-only"/>
+      </a>
+      <a href="https://github.com/omidhokate2002/issue-tracker#gh-dark-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=issue-tracker&theme=dark#gh-dark-mode-only"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="border: none;">
+      <a href="https://github.com/omidhokate2002/customer-support-dashboard#gh-light-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=customer-support-dashboard&theme=buefy#gh-light-mode-only"/>
+      </a>
+      <a href="https://github.com/omidhokate2002/customer-support-dashboard#gh-dark-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=customer-support-dashboard&theme=dark#gh-dark-mode-only"/>
+      </a>
+    </td>
+    <td width="50%" style="border: none;">
+      <a href="https://github.com/omidhokate2002/supertuness#gh-light-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=supertuness&theme=buefy#gh-light-mode-only"/>
+      </a>
+      <a href="https://github.com/omidhokate2002/supertuness#gh-dark-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=omidhokate2002&repo=supertuness&theme=dark#gh-dark-mode-only"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br />
